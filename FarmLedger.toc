@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Farm Ledger
+## Notes: What farming brings in, per session and over time: looted items, mining, herbs, skins, coins and quest gold, priced by Auctionator's auction prices or the vendor (WoW Forever).
+## Version: 0.2.0
+## X-License: PolyForm-Noncommercial-1.0.0
+## SavedVariables: SkinLedgerDB
+## OptionalDeps: Auctionator
+
+Core\Ledger.lua
+Game\Main.lua
